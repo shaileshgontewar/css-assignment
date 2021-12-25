@@ -1,0 +1,27 @@
+h1{
+    color: red;
+}
+h2{
+    color: blueviolet;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+li{
+    font-weight: bold;
+    color: brown;
+    font-size: 18px;
+    font-family: Verdana;
+}
+p{
+    color: chocolate;
+    font-style: italic;
+    font-weight: 12px;
+}
+a{
+    text-decoration: none;
+    color: red;
+    font-family:'Courier New', Courier, monospace ;
+}
+a,mark{
+    color: red;
+}
